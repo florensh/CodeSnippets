@@ -77,12 +77,17 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.m2/repository/junit/junit/4.11/junit-4.11-sources.jar" kind="lib" path="C:/Users/Studium/.m2/repository/junit/junit/4.11/junit-4.11.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.servlet.jsp/3.1.1/805d42bee168b79ca8607a2dc80bc5646ff893c9/javax.servlet.jsp-3.1.1-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.servlet.jsp/3.1.1/62d79c75b2c6739b3180a9ed7d15974126a0b842/javax.servlet.jsp-3.1.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Studium/.m2/repository/junit/junit/4.11/junit-4.11-sources.jar" kind="lib" path="C:/Users/Studium/.m2/repository/junit/junit/4.11/junit-4.11.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>

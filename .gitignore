@@ -13,3 +13,4 @@ hs_err_pid*
 CodeSnippets/build/
 CodeSnippets/.gradle/
 CodeSnippets/.settings/
+CodeSnippets/bin/
