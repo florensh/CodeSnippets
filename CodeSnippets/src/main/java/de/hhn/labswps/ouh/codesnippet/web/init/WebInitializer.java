@@ -1,4 +1,4 @@
-package de.hhn.labswps.ouh.codesnippet.web;
+package de.hhn.labswps.ouh.codesnippet.web.init;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
