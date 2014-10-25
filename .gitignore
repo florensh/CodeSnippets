@@ -14,3 +14,6 @@ CodeSnippets/build/
 CodeSnippets/.gradle/
 CodeSnippets/.settings/
 CodeSnippets/bin/
+.gradle/
+build/
+.settings/
