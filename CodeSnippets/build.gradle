@@ -2,6 +2,19 @@ apply plugin: 'java'
 apply plugin: 'war'
 apply plugin: 'eclipse-wtp'
 
+    loadConfiguration()
+
+    def loadConfiguration() {
+        def environment = hasProperty('env') ? env : 'dev'
+        setProperty 'environment', environment
+    }
+
+apply from: 'tasks.gradle'
+
+processResources.dependsOn copyConfiguration
+
+
+
 ext.springVersion='4.0.6.RELEASE'
 ext.springSecurityVersion='3.2.5.RELEASE'
 ext.hibernateVersion='4.3.6.Final'
@@ -30,6 +43,7 @@ dependencies {
 
 	compile 'org.springframework.security:spring-security-web:3.2.5.RELEASE'
 	compile 'org.springframework.security:spring-security-config:3.2.5.RELEASE'
+	compile 'org.springframework.security:spring-security-taglibs:3.2.5.RELEASE'
 	compile 'org.springframework.data:spring-data-jpa:1.7.0.RELEASE'
 
     // hibernate
@@ -42,6 +56,15 @@ dependencies {
 	compile 'javax.el:javax.el-api:3.0.0'
 	compile 'commons-fileupload:commons-fileupload:1.2.1'
 	compile 'jstl:jstl:1.2'
+
+
+    compile group: 'org.apache.tiles', name: 'tiles-api', version:'3.0.5'
+    compile(group: 'org.apache.tiles', name: 'tiles-core', version:'3.0.5') {
+exclude(module: 'jcl-over-slf4j')
+    }
+    compile group: 'org.apache.tiles', name: 'tiles-jsp', version:'3.0.5'
+    compile group: 'org.apache.tiles', name: 'tiles-servlet', version:'3.0.5'
+    compile group: 'org.apache.tiles', name: 'tiles-template', version:'3.0.5'
 
 compile 'javax.servlet:javax.servlet-api:3.1.0'
 	//include in compile only, exclude in the war
