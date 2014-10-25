@@ -7,3 +7,13 @@
             include "*/"
         }
     }
+
+    task copyProdConfiguration << {
+        println "Target environment: prod"
+
+        copy {
+            from "src/main/environment/prod"
+            into "src/main/resources"
+            include "*/"
+        }
+    }

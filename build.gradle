@@ -11,9 +11,6 @@ apply plugin: 'eclipse-wtp'
 
 apply from: 'tasks.gradle'
 
-processResources.dependsOn copyConfiguration
-
-mainClassName = "com.test.Boot"
 
 ext.springVersion='4.0.6.RELEASE'
 ext.springSecurityVersion='3.2.5.RELEASE'
@@ -78,7 +75,7 @@ eclipse {
     project.natures "org.springframework.ide.eclipse.core.springnature"
 }
 
-task stage(dependsOn: ['clean', 'war'])
+task stage(dependsOn: ['clean','copyProdConfiguration', 'war'])
 
 stage {
 	setProperty 'environment', 'prod'
