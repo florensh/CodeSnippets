@@ -77,3 +77,10 @@ compile 'javax.servlet:javax.servlet-api:3.1.0'
 eclipse {
     project.natures "org.springframework.ide.eclipse.core.springnature"
 }
+
+task stage(dependsOn: ['clean', 'installApp'])
+
+stage {
+	setProperty 'environment', 'prod'
+
+}
