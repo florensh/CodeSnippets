@@ -6,5 +6,6 @@ before_install:
 deploy:
   provider: heroku
   api_key: fb2289f8-3099-4ae3-a2da-8c1b79434dcc
+  strategy: git
   app:
     master: evening-shelf-2330
