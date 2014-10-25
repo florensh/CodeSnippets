@@ -16,3 +16,4 @@ CodeSnippets/bin/
 build/
 .settings/
 .gradle/
+bin/

@@ -38,6 +38,8 @@ dependencies {
 
 	compile 'org.springframework:spring-test:4.0.6.RELEASE'
 
+	compile 'com.github.jsimone:webapp-runner:7.0.40.0'
+
 	compile 'org.springframework.security:spring-security-web:3.2.5.RELEASE'
 	compile 'org.springframework.security:spring-security-config:3.2.5.RELEASE'
 	compile 'org.springframework.security:spring-security-taglibs:3.2.5.RELEASE'
