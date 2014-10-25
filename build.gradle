@@ -11,6 +11,10 @@ apply plugin: 'eclipse-wtp'
 
 apply from: 'tasks.gradle'
 
+configurations {
+  runtimeOnly
+}
+
 
 ext.springVersion='4.0.6.RELEASE'
 ext.springSecurityVersion='3.2.5.RELEASE'
@@ -40,9 +44,9 @@ dependencies {
 
 	//compile 'com.github.jsimone:webapp-runner:7.0.40.0'
     // to run our App on Heroku
-    compile "org.mortbay.jetty:jetty-runner:8.1.1.v20120215"
+    runtimeOnly "org.mortbay.jetty:jetty-runner:8.1.1.v20120215"
     // monitoring on Heroku
-    compile "com.newrelic.agent.java:newrelic-agent:2.18.0"
+    runtimeOnly "com.newrelic.agent.java:newrelic-agent:2.18.0"
 
 
 
