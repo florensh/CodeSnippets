@@ -12,17 +12,12 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.6.RELEASE/8ed4a4be827c7ae796e8f855abf6190a596bb931/spring-webmvc-4.0.6.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.6.RELEASE/9020a09a96058133c822ff04f00e7fa0e0c3b82b/spring-webmvc-4.0.6.RELEASE.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.1.8.RELEASE/c7bb4ac58aecb08bbf039176dc9ca3ba6504eb53/spring-boot-starter-web-1.1.8.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.1.8.RELEASE/2fee2127c7ce02bf5a3a09685db9733dd638851f/spring-boot-starter-web-1.1.8.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.0.6.RELEASE/f0e39db787769d8926a6ae7baed1a1ebb9d6e50a/spring-test-4.0.6.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.0.6.RELEASE/b2f65445f300f1317fe694e6530cce39d7090ff6/spring-test-4.0.6.RELEASE.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.mortbay.jetty/jetty-runner/8.1.16.v20140903/c3ddb113d013c18e47d03d8e2a1a767a72e0f51/jetty-runner-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.mortbay.jetty/jetty-runner/8.1.16.v20140903/11786dee95128476a70207c2c4fefe8f16668278/jetty-runner-8.1.16.v20140903.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
@@ -127,6 +122,11 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.7.RELEASE/6fdecc9428ace07d6a8957bc006079c57a321998/spring-webmvc-4.0.7.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.7.RELEASE/5d2de0ccee1d6cc02ec2d29c5440a762fd4345f6/spring-webmvc-4.0.7.RELEASE.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/502e1c764542fe747896c1dc04f023acfe0e5cbc/logback-core-1.1.2-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/2d23694879c2c12f125dac5076bdfd5d771cc4cb/logback-core-1.1.2.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
@@ -172,137 +172,97 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.6.RELEASE/ea420724d884a43e3db4b08d2ca5ff75715ff9bb/spring-web-4.0.6.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.6.RELEASE/85ef4b91fcdd86d81e4a9b3e5f006dcb4128e6d/spring-web-4.0.6.RELEASE.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.1.8.RELEASE/c98c846cb3715a03a62ae13333495eae43704d2c/spring-boot-1.1.8.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.1.8.RELEASE/56e6da620a4cacb9ceaadee036d66a72121b324b/spring-boot-1.1.8.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/15c914135cf30177b83c321250c458396289cd37/javax.servlet-3.0.0.v201112011016-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/aaaa85845fb5c59da00193f06b8e5278d8bf3f8/javax.servlet-3.0.0.v201112011016.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.1.8.RELEASE/73053750cbc5f958a815e143e6a8bfefcc1a8cb9/spring-boot-autoconfigure-1.1.8.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.1.8.RELEASE/d270f6883ce8a9b092fbbd31473a8d1c4d5e3ffd/spring-boot-autoconfigure-1.1.8.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/8.1.16.v20140903/63dac1b8c1c951e7222aa27dc87ebfa08f298b4/jetty-continuation-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/8.1.16.v20140903/c4ec345d8113bcedf6531f4bd2adff89b004e288/jetty-continuation-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.7/b5a646b81b899e930f8600c5f45766dd82743d93/jcl-over-slf4j-1.7.7-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.7/56003dcd0a31deea6391b9e2ef2f2dc90b205a92/jcl-over-slf4j-1.7.7.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/8.1.16.v20140903/7df96485a567d4c73529554adbe0409aaaeed577/jetty-util-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/8.1.16.v20140903/a373470a15a6edddac3ec3e96c5dd5a1b795362c/jetty-util-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.7/13cbf9161382f50c1862bc371bf5c8aab05a664c/jul-to-slf4j-1.7.7-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.7/def21bc1a6e648ee40b41a84f1db443132913105/jul-to-slf4j-1.7.7.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/8.1.16.v20140903/f8e459d7d20a940ee4691ebbf7bcad1ee132c71b/jetty-io-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/8.1.16.v20140903/447d6b4f1db3f2bc5306a71dda136c40fdd9aff7/jetty-io-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.7/307e030bc37259ad60dce614530d698ac74c4dc/log4j-over-slf4j-1.7.7-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.7/d521cb26a9c4407caafcec302e7804b048b07cea/log4j-over-slf4j-1.7.7.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/8.1.16.v20140903/279f994e65bd2d7b00bf392232c68f62121c0a12/jetty-http-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/8.1.16.v20140903/795b475235e065e4c26c22b9222c51cf100e76be/jetty-http-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.1.8.RELEASE/8586a7f9fa740f581a6b2ff6b8fb38932f947d65/spring-boot-starter-logging-1.1.8.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.1.8.RELEASE/5c1e0e6741dc916a96d09e35001325348c0e9586/spring-boot-starter-logging-1.1.8.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/8.1.16.v20140903/df01d5ce8f513feafcbcd02243896bcaf76b6045/jetty-server-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/8.1.16.v20140903/f0df21b38057d2937fc30052f36ac5579d968855/jetty-server-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.1.8.RELEASE/da0cd63889b046cdc1b273e1d3eaeb4ca71e1b2f/spring-boot-starter-1.1.8.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.1.8.RELEASE/6319edfa23a79b09430ed1a781fbb03e9f7fa2e9/spring-boot-starter-1.1.8.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.activation/1.1.0.v201105071233/350bd9b2a184ff0b1981809a299d9a663c2e9895/javax.activation-1.1.0.v201105071233-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.activation/1.1.0.v201105071233/b394a9fbf664ca835452b3ced452710bcf79fd81/javax.activation-1.1.0.v201105071233.jar" exported="true">
+	<classpathentry kind="lib" path="C:/Users/Studium/.m2/repository/org/yaml/snakeyaml/1.13/snakeyaml-1.13.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.mail.glassfish/1.4.1.v201005082020/b12c43ddc708b244291f62c55a440dc272a947ff/javax.mail.glassfish-1.4.1.v201005082020-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.mail.glassfish/1.4.1.v201005082020/b707c39fc080529c4a9ffc1df4eac58421133aaf/javax.mail.glassfish-1.4.1.v201005082020.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/7.0.55/92a39bb3dbedf0c6ee9ceca67bfb99f6e8cd3a34/tomcat-embed-core-7.0.55-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/7.0.55/67713e23a79934697f7f89e8a1382586117f7291/tomcat-embed-core-7.0.55.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jndi/8.1.16.v20140903/20c8a7334bb86fbdcfec061b9c1d2e634ed8da68/jetty-jndi-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jndi/8.1.16.v20140903/30223599fdf414e9287553a4f04a9cc67f740bca/jetty-jndi-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/7.0.55/93690a69bb3e586a376e2da048481bb7ca909344/tomcat-embed-el-7.0.55-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/7.0.55/fe614bb874f8fa1d5a9427d7b4afd2236607be4a/tomcat-embed-el-7.0.55.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.transaction/1.1.1.v201105210645/2e00625b8dd34693188882f421b736efece2b8e/javax.transaction-1.1.1.v201105210645-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.transaction/1.1.1.v201105210645/68e61aa115bbff4e1e2ae4b16feb27d9f805eb6/javax.transaction-1.1.1.v201105210645.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/7.0.55/70b900a7ac8f4e0052e01195fb1c8e04ca7a7a54/tomcat-embed-logging-juli-7.0.55-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/7.0.55/76c2066b1fadcee51f1a2b75238f8916701003d8/tomcat-embed-logging-juli-7.0.55.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/8.1.16.v20140903/5b7e383db0fcfd83a4dbe301eabec40e516319af/jetty-xml-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/8.1.16.v20140903/308127f824e69152f5cf489477876f6e17796f5e/jetty-xml-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.1.8.RELEASE/71efbbfa694bedfa072931978a5781fef156ea92/spring-boot-starter-tomcat-1.1.8.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.1.8.RELEASE/a03498e885a6b7c65df2b23d099edbe020a27705/spring-boot-starter-tomcat-1.1.8.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/8.1.16.v20140903/c13d41988b144140f90580893c1c9ced89a9f7c6/jetty-security-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/8.1.16.v20140903/c9167b815c585e207e8167f7ff4adc6ee817c03f/jetty-security-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/cc964b08f8d37e3d8465de923b9e6321107a5429/jackson-annotations-2.3.0-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/8.1.16.v20140903/e880b0b5152b8896134c42689da5d3b363eccae3/jetty-servlet-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/8.1.16.v20140903/56c5c05e854df74c32365a97ca8e1c71c0725df9/jetty-servlet-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.4/2e8eba31f58aa7cb52579c9d7d101cf509e3b75f/jackson-core-2.3.4-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.4/801fecfb8baf0ba5296e2d2ea0664f72b0761b9a/jackson-core-2.3.4.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/8.1.16.v20140903/c81983e122930f01c42a2b6d2981cabe04239a6b/jetty-webapp-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/8.1.16.v20140903/16a6a5ce23f23d6f41a0b105f6d719d480e6421d/jetty-webapp-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.4/ccaf6ee9f02e57bd209ada7e02c0782977ea1267/jackson-databind-2.3.4-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.4/c9478f1871de4c9cf723e5d497a14c7ad274a50b/jackson-databind-2.3.4.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-plus/8.1.16.v20140903/ea98902a75cef3919afedb0ec99c4a362d238c09/jetty-plus-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-plus/8.1.16.v20140903/5ff92056de5a08275fdbe712306f509e80086fd5/jetty-plus-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/4d2c4df2c1a1b2d2f9201f6d580d7d19ccf8cbdf/jboss-logging-3.1.3.GA-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/64499e907f19e5e1b3fdc02f81440c1832fe3545/jboss-logging-3.1.3.GA.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.annotation/1.1.0.v201108011116/374b74f795300b6ea4d9950589b80ddcac509d5b/javax.annotation-1.1.0.v201108011116-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.annotation/1.1.0.v201108011116/964b4bd5e4f40d6497fd302e2e66c4a4257138b3/javax.annotation-1.1.0.v201108011116.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.objectweb.asm/3.1.0.v200803061910/bb8b0f120a53c9275cb2b684ccfc8762a2fc505a/org.objectweb.asm-3.1.0.v200803061910-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.objectweb.asm/3.1.0.v200803061910/bf952ae43613f460f11ce5f8727cc9e4a7f8d33d/org.objectweb.asm-3.1.0.v200803061910.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/da0cec0cf5fa28fba22e44700d72259e0225f2e4/classmate-1.0.0-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/434efef28c81162b17c540e634cffa3bd9b09b4c/classmate-1.0.0.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-annotations/8.1.16.v20140903/54cb7de9e5fbb8f873b0d5c23e478edd6c6ebd66/jetty-annotations-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-annotations/8.1.16.v20140903/63c4dab8a14c713320b889b5478033963cb760bf/jetty-annotations-8.1.16.v20140903.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet.jsp/2.2.0.v201112011158/3d1e4ebc9b2c2b203dd9a471ba75a3ed8a28eccc/javax.servlet.jsp-2.2.0.v201112011158-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet.jsp/2.2.0.v201112011158/80b4ffe7c26ee97313bea2ddda5835fd38812ee4/javax.servlet.jsp-2.2.0.v201112011158.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.apache.jasper.glassfish/2.2.2.v201112011158/87830aada7aa722d33067bba07a5e0f967875fde/org.apache.jasper.glassfish-2.2.2.v201112011158-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.apache.jasper.glassfish/2.2.2.v201112011158/3945afe6a042228a92da320aec3fa1bc1308183b/org.apache.jasper.glassfish-2.2.2.v201112011158.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet.jsp.jstl/1.2.0.v201105211821/3b9bbbf21e72c1e1feede7d74c4b9f619309713d/javax.servlet.jsp.jstl-1.2.0.v201105211821-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet.jsp.jstl/1.2.0.v201105211821/db594f1c8fc00d536f6d135bd7f8a9a99a6b8eea/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.apache.taglibs.standard.glassfish/1.2.0.v201112081803/f2702e293dd0cd8879c42a2c079bb0bc542d4b52/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.apache.taglibs.standard.glassfish/1.2.0.v201112081803/2c4baa72af1d3aae3a1e029d4f8ca07498dabbe0/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.el/2.2.0.v201108011116/96fe4d05f5cbd5d4efd2aed9dbcbf002f4444e23/javax.el-2.2.0.v201108011116-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.el/2.2.0.v201108011116/ec8944c11833d84b0283a5afbad0fafb264f86a9/javax.el-2.2.0.v201108011116.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/com.sun.el/2.2.0.v201108011116/bfd5972fdc9c7e7d08376f09b36b9b6a9d89ff5/com.sun.el-2.2.0.v201108011116-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/com.sun.el/2.2.0.v201108011116/15f7774c3fa514835a371f47c152317704ea411a/com.sun.el-2.2.0.v201108011116.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.eclipse.jdt.core/3.7.1/fcf9751ba022c340e2d01456462ea4949ceee991/org.eclipse.jdt.core-3.7.1-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.eclipse.jdt.core/3.7.1/5b79bfee0852ca685e33cab74496fa3400271b5b/org.eclipse.jdt.core-3.7.1.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jsp/8.1.16.v20140903/d70173189a0f19a763fb7a2c317a456b63b6fd9d/jetty-jsp-8.1.16.v20140903-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jsp/8.1.16.v20140903/57b91868460474389ec9d904531212c2c8ea5ec5/jetty-jsp-8.1.16.v20140903.jar" exported="true">
+	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.7.RELEASE/5c079145880e4e8b896739ba29fe597d2ef13aaa/spring-web-4.0.7.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.7.RELEASE/9c8505b6785bfe6b45bbdc8c8cbcda628feb21b1/spring-web-4.0.7.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
@@ -332,22 +292,12 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.7/b5a646b81b899e930f8600c5f45766dd82743d93/jcl-over-slf4j-1.7.7-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.7/56003dcd0a31deea6391b9e2ef2f2dc90b205a92/jcl-over-slf4j-1.7.7.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
 	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.0.7.RELEASE/dcf9e5b1df00503d105d2f9a58200721f13a9a7a/spring-orm-4.0.7.RELEASE-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.0.7.RELEASE/3e80e6439e03861239fe03e6f7118b20fc61bb78/spring-orm-4.0.7.RELEASE.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/a77b22e3a955cfd274639e2bfbcbcf32d562f6e/aspectjrt-1.8.2-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/4d2c4df2c1a1b2d2f9201f6d580d7d19ccf8cbdf/jboss-logging-3.1.3.GA-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/64499e907f19e5e1b3fdc02f81440c1832fe3545/jboss-logging-3.1.3.GA.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
@@ -388,16 +338,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/cd042b769b296fd1bc20ca5120824caa42b6c9ed/jandex-1.1.0.Final-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/e84a2122e76f0b6503be78094ddf2108057ac15f/jandex-1.1.0.Final.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar" exported="true">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/da0cec0cf5fa28fba22e44700d72259e0225f2e4/classmate-1.0.0-sources.jar" kind="lib" path="C:/Users/Studium/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/434efef28c81162b17c540e634cffa3bd9b09b4c/classmate-1.0.0.jar" exported="true">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>

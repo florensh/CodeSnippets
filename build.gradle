@@ -39,14 +39,17 @@ repositories {
 dependencies {
 	compile 'ch.qos.logback:logback-classic:1.1.2'
 	compile 'org.springframework:spring-webmvc:4.0.6.RELEASE'
+	compile 'org.springframework.boot:spring-boot-starter-web:1.1.8.RELEASE'
 
 	compile 'org.springframework:spring-test:4.0.6.RELEASE'
 
-	//compile 'com.github.jsimone:webapp-runner:7.0.40.0'
-    // to run our App on Heroku
-    runtimeOnly "org.mortbay.jetty:jetty-runner:8.1.1.v20120215"
+	runtimeOnly 'com.github.jsimone:webapp-runner:7.0.40.1'
+    
+
+// to run our App on Heroku
+    //runtimeOnly "org.mortbay.jetty:jetty-runner:8.1.1.v20120215"
     // monitoring on Heroku
-    runtimeOnly "com.newrelic.agent.java:newrelic-agent:2.18.0"
+    //runtimeOnly "com.newrelic.agent.java:newrelic-agent:2.18.0"
 
 
 
