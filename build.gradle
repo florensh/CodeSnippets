@@ -24,8 +24,8 @@ ext.hibernateValidatorVersion='5.1.2.Final'
 version = '1.0'
  
 // Uses JDK 8
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
  
  
 // 1. Get dependencies from Maven local repository
