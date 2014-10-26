@@ -23,7 +23,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 
 @Configuration
-@ComponentScan(basePackages="de.hhn.labswps.ouh.codesnippet.web")
+@ComponentScan(basePackages = "de.hhn.labswps.ouh.codesnippet.web")
 @EnableJpaRepositories( basePackages = {"de.hhn.labswps.ouh.codesnippet.web.repository" })
 @EnableTransactionManagement
 @PropertySource("classpath:environment.properties")
