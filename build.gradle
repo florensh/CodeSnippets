@@ -38,10 +38,10 @@ repositories {
 //Project dependencies
 dependencies {
 	compile 'ch.qos.logback:logback-classic:1.1.2'
-	compile 'org.springframework:spring-webmvc:4.0.6.RELEASE'
+	compile 'org.springframework:spring-webmvc:4.0.0.RELEASE'
 //	compile 'org.springframework.boot:spring-boot-starter-web:1.1.8.RELEASE'
 
-	compile 'org.springframework:spring-test:4.0.6.RELEASE'
+	compile 'org.springframework:spring-test:4.0.0.RELEASE'
 
 	runtimeOnly 'com.github.jsimone:webapp-runner:7.0.22.1'
     
