@@ -43,7 +43,7 @@ dependencies {
 
 	compile 'org.springframework:spring-test:4.0.6.RELEASE'
 
-	runtimeOnly 'com.github.jsimone:webapp-runner:7.0.40.1'
+	runtimeOnly 'com.github.jsimone:webapp-runner:7.0.22.1'
     
 
 // to run our App on Heroku
